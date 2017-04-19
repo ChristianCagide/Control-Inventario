@@ -1,0 +1,9 @@
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\bin\Debug\proyControlInv.exe.config
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\bin\Debug\proyControlInv.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\bin\Debug\proyControlInv.pdb
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\obj\Debug\proyControlInv.csprojResolveAssemblyReference.cache
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\obj\Debug\proyControlInv.Form1.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\obj\Debug\proyControlInv.Properties.Resources.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\obj\Debug\proyControlInv.csproj.GenerateResource.Cache
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\obj\Debug\proyControlInv.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\obj\Debug\proyControlInv.pdb
